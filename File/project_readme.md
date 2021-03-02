@@ -4,6 +4,8 @@
 
 - [GitHub Link](https://github.com/censoredbythefcc95/Capstone-Project.git)
 - [Official Link Coming Soon]()
+- [React Architecture](https://docs.google.com/drawings/d/1MKaMB9ZBuqYwpL_zWeFTS4ldHVOw_13i1GcoktvEhJc/edit)
+- [Rails Architecture](https://docs.google.com/drawings/d/1uV9z12GmSFy5lU0cogFGxGZzBqruhpwzyBBcXqTEHRE/edit)
 
 ## Project Description
 
