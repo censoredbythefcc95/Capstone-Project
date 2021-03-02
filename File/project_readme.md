@@ -94,14 +94,14 @@ Initial components decided for Project.
 | Initializing framework/app | H | 1 hr |0mins | mins |
 | Netlify Deploy | H | 1 hr |0mins | mins |
 | Heroku Deploy | H | 1 hr |0mins | mins |
-| Build API | H | 10 hrs | mins | mins |
-| Rails Routes | H | 8 hrs| mins | mins |
-| Building Components | H | 10hrs| hrs | hrs |
-| React routes | H | 15hrs| hrs | rs |
-| Rendering data pull from API | H | 3hrs| hrs | hrs |
-| CSS Styling | M | 60hrs| hrs | hrs |
-| Double-checking State and Routes | H | 10hrs| hrs | hrs |
-| Total | H | 92hrs| hrs | hrs |
+| Build API | H | 3 hrs | mins | mins |
+| Rails Routes | H | 3 hrs| mins | mins |
+| Building Components | H | 8hrs| hrs | hrs |
+| React routes | H | 6hrs| hrs | rs |
+| Rendering data pull from API | H | 2hrs| hrs | hrs |
+| CSS Styling | M | 25hrs| hrs | hrs |
+| Double-checking State and Routes | H | 2hrs| hrs | hrs |
+| Total | H | 51hrs| hrs | hrs |
 
 
 ## Additional Technologies
@@ -114,3 +114,8 @@ Initial components decided for Project.
 ## Final notes 
 
 I still need to determine my final component architecture. It is still unclear. Research on best architecture in progress.
+
+- Rethink timing for MVP / PostMVP
+- Figure out architecture
+- Make sure documentation is really in place before starting(still unclear)
+- Research GH and other sites for design. 
